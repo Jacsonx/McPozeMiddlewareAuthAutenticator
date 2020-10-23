@@ -1,0 +1,25 @@
+{
+  "name": "pose_auth_validator",
+  "version": "1.0.0",
+  "description": "validador de autenticacao middleware do mc poze",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_pose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacsonx/McPozeMiddlewareAuthAutenticator.git"
+  },
+  "keywords": [
+    "Mc",
+    "Poze",
+    "authenticacao",
+    "middlewares"
+  ],
+  "author": "Jako <https://github.com/Jacsonx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jacsonx/McPozeMiddlewareAuthAutenticator/issues"
+  },
+  "homepage": "https://github.com/Jacsonx/McPozeMiddlewareAuthAutenticator#readme"
+}
